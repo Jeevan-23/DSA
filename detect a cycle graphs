@@ -1,5 +1,5 @@
 
-// code using dfs approach 
+// code using bfs approach 
 class Pair {
     int first;
     int second;
